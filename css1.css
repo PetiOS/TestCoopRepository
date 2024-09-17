@@ -1,0 +1,41 @@
+body {margin:0;
+    background-image: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg"); width:100% ;background-size:cover;
+}
+
+#logo { margin:auto; text-align:center; background-image: url("https://img.freepik.com/premium-photo/viscous-smudges-caramel-dripping-condensed-milk-dripping-ice-cream-viscous-smudges-mayonnaise_88211-12707.jpg"); border: 20px; border-color:white; width:700px; border-radius:15px; border-style:dotted;
+    border-width:5px;
+
+}
+h2#logos { font-style:italic; font-size: 60px; font: rgb(221, 217, 204); text-shadow: 5px 2px rgb(165, 158, 126);
+
+}
+h1 {margin-left:-480px;font-style:italic; color:rgb(41, 31, 34); font-size:40px; padding-top:20px;}
+
+#menu { margin:auto; width:550px; height:50px; list-style-type: none; margin-top:10px; padding:0;
+
+}
+.sofadi-one-regular {
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#menu li { display:block; width:158px; height:50px; background-image: url("https://img.freepik.com/premium-photo/viscous-smudges-caramel-dripping-condensed-milk-dripping-ice-cream-viscous-smudges-mayonnaise_88211-12707.jpg") ; border-radius:15px;border-style:solid; border-width:2px; border-color:white; margin-left:20px;
+     font-size:30px; float:left; text-align:center; padding-top:10px;
+
+}
+
+#menu li a { font-size:30px; color:rgb(95, 33, 14); text-decoration:none;height:30px; 
+}
+#menu li a:hover {font-size:33px; color:rgb(95, 33, 14); text-decoration:underline;
+}
+#menu li a:visited {font-size:30px; color:rgb(95, 33, 14); text-decoration:none; 
+}
+
+#obsah { width:900px; margin:auto; background-color:#ffeabd ;  text-align:center; border-radius:10px; padding-bottom:80px;
+
+}
+
+footer { text-align:center; color:rgb(255, 197, 149)
+
+}
